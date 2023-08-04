@@ -1,0 +1,26 @@
+{
+  "name": "black-scientists-api",
+  "version": "1.0.0",
+  "description": "a REST API for black scientists",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derrick-code11/black-scientists-api.git"
+  },
+  "author": "Derrick Agyemang Duah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derrick-code11/black-scientists-api/issues"
+  },
+  "homepage": "https://github.com/derrick-code11/black-scientists-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.1",
+    "nodemon": "^3.0.1"
+  }
+}
