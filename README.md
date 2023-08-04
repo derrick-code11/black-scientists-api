@@ -1,6 +1,6 @@
 # Black Scientists API
 
-Welcome to the Black Scientists API project! This API provides information about notable black scientists and their contributions. It allows you to retrieve, create, update, and delete scientist records.
+Welcome to the Black Scientists API project! This API provides information about notable black scientists and their contributions. It allows you to retrieve, create, update, and delete scientist records. You can access the api [here](https://black-scientists-api-c34142d28576.herokuapp.com/scientists)
 
 ## Features
 
@@ -54,7 +54,11 @@ BLACK-SCIENTISTS-API/
 ```
 
 ## Contributing
-It's my dream to make this API a bigger one 🚀🔥 hence your contributions are welcome! If you have any additions or suggestions for improvement, please feel free to submit a pull request.
+It's my dream to make this API a bigger one 🚀🔥 hence your contributions are welcome! If you have any additions or suggestions for improvement, please feel free to submit a pull request. I'll happy to review them since they could provide a new learning experience.
+
+## Acknowledgment
+All info were sourced from [Wikipedia](https://wikipedia.com)
+
 
 ## License
 This project is licensed under the MIT License.
