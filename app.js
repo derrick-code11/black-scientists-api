@@ -5,7 +5,7 @@ const scientistsRouter = require("./routes/scientists");
 require("dotenv/config");
 
 const app = express();
-const port = process.env.port || 3000;
+const port = process.env.PORT || 3000;
 
 // connecting to MongoDB
 mongoose
