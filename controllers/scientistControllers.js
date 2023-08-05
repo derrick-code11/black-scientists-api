@@ -40,7 +40,7 @@ exports.createScientist = async (req, res) => {
 
     // Calculate the age based on the date of birth (dob) and the current year
     const birthDate = new Date(dob);
-    const currentDate = new Date();
+    const currentDate = died == "N/A" ? new Date() : new Date(died);
     const birthYear = birthDate.getFullYear();
     const currentYear = currentDate.getFullYear();
 
