@@ -54,7 +54,7 @@ BLACK-SCIENTISTS-API/
 ```
 
 ## Contributing
-It's my dream to make this API a bigger one 🚀🔥 hence your contributions are welcome! If you have any additions or suggestions for improvement, please feel free to submit a pull request. I'll happy to review them since they could provide a new learning experience.
+It's my dream to make this API a bigger one 🚀🔥 hence your contributions are welcome! If you have any additions or suggestions for improvement, please feel free to submit a pull request. I'll be happy to review them since they could provide a new learning experience.
 
 ## Acknowledgment
 All info were sourced from [Wikipedia](https://wikipedia.com)
