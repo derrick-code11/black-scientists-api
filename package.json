@@ -4,7 +4,8 @@
   "description": "a REST API for black scientists",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "update-age": "nodemon updateAge.js"
   },
   "repository": {
     "type": "git",
