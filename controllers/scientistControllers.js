@@ -47,12 +47,14 @@ exports.createScientist = async (req, res) => {
     let age = currentYear - birthYear;
 
     // Check if the birth date's month and day are after the current date's month and day
-    if (
-      birthDate.getMonth() > currentDate.getMonth() ||
-      (birthDate.getMonth() === currentDate.getMonth() &&
-        birthDate.getDate() > currentDate.getDate())
-    ) {
-      age--;
+    if (died == "N/A") {
+      if (
+        birthDate.getMonth() > currentDate.getMonth() ||
+        (birthDate.getMonth() === currentDate.getMonth() &&
+          birthDate.getDate() > currentDate.getDate())
+      ) {
+        age--;
+      }
     }
 
     // Create a new scientist object with the calculated age
